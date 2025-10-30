@@ -1,0 +1,1 @@
+This is a simple codebase to practice GitHub actions to understand CICD.
